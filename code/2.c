@@ -63,6 +63,7 @@ void main() {
 				num2 = get_number(num2);
 				break;
 			case 7:
+				printf("Exiting...");
 				exit(0);
 				break;
 			default:

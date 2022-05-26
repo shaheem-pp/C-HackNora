@@ -7,7 +7,7 @@ int main()
 	temp = m;
 	for (i = 0; i < 8; i++)
 	{
-		printf("\n%d notes is:%d", a[i], temp / a[i]);
+		printf("%d x %d\n", a[i], temp / a[i]);
 		temp = temp % a[i];
-	}
+	} printf("---------------\n%d\n", m);
 }

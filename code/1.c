@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-void main() {
-	int num = 10, first = 0, second = 1, third;
+int main() {
+	int num, first = 0, second = 1, third;
+	printf("Enter the Fibonacci Number Limit: ");
+	scanf("%d", &num);
 	for (int i = 0; i <= num; i++) {
 		if (first >= num) {
 			break;
@@ -12,4 +14,5 @@ void main() {
 			second = third + first;
 		}
 	}
+	return 0;
 }
