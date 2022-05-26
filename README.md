@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HackNora
 HackNora is a mini hackathon or a coding competition conducted by Department of Computer Science and Applications, SIAS during Techfest 2022
 
@@ -15,4 +14,3 @@ HackNora is a mini hackathon or a coding competition conducted by Department of 
 ![](https://raw.githubusercontent.com/shaheem-pp/C-HackNora/main/Problem%201-2.png)
 ![](https://raw.githubusercontent.com/shaheem-pp/C-HackNora/main/Problem%203-5.png)
 ![](https://raw.githubusercontent.com/shaheem-pp/C-HackNora/main/Problem%206-7.png)
->>>>>>> 51a9c40073e1123121804cab41bf262b7528f370
